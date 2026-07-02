@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0485-max-consecutive-ones](https://github.com/amol112225/leetcode/tree/master/0485-max-consecutive-ones) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amol112225/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/amol112225/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Hash Table
