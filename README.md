@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/amol112225/leetcode/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/amol112225/leetcode/tree/master/0455-assign-cookies) |
 | [0485-max-consecutive-ones](https://github.com/amol112225/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0860-lemonade-change](https://github.com/amol112225/leetcode/tree/master/0860-lemonade-change) |
@@ -53,6 +54,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0045-jump-game-ii](https://github.com/amol112225/leetcode/tree/master/0045-jump-game-ii) |
 | [0455-assign-cookies](https://github.com/amol112225/leetcode/tree/master/0455-assign-cookies) |
 | [0860-lemonade-change](https://github.com/amol112225/leetcode/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amol112225/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
@@ -92,4 +94,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0455-assign-cookies](https://github.com/amol112225/leetcode/tree/master/0455-assign-cookies) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0045-jump-game-ii](https://github.com/amol112225/leetcode/tree/master/0045-jump-game-ii) |
 <!---LeetCode Topics End-->
