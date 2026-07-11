@@ -36,7 +36,8 @@ public:
         int curr_lev=0;
         while(!q.empty()){
             int size = q.size();
-            if(curr_lev++==k) break;
+            if(curr_lev==k) break;
+            else curr_lev++;
             for(int i=0; i<size; i++){
                 TreeNode* curr = q.front();
                 q.pop();
