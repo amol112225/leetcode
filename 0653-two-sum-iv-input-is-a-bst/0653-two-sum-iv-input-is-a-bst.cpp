@@ -20,14 +20,14 @@ public:
     bool findTarget(TreeNode* root, int k) {
         vector<int>io;
         inorder(root,io);
-        for(int i=0; i<io.size(); i++){
-            for(int j=i; j<io.size();j++){
-                if(i!=j){
-                    if(k==(io[i]+io[j])){
-                        return true;
-                    }
-                }
-            }
+        int i = 0;
+        int j = io.size() - 1;
+
+        while(i < j){
+            int sum = io[i] + io[j];
+            if(sum == k) return true;
+            else if(sum < k) i++;
+            else j--;
         }
         return false;
 
