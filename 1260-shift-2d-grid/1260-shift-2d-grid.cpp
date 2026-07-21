@@ -11,7 +11,7 @@ public:
                     temp[0][0] = grid[i][j];
                 else if (j == n - 1)
                     temp[i + 1][0] = grid[i][j];
-                else
+                else  
                     temp[i][j + 1] = grid[i][j];
             }
         }
