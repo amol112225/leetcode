@@ -444,4 +444,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0322-coin-change](https://github.com/amol112225/leetcode/tree/master/0322-coin-change) |
 | [0518-coin-change-ii](https://github.com/amol112225/leetcode/tree/master/0518-coin-change-ii) |
+## Database
+|  |
+| ------- |
+| [1757-recyclable-and-low-fat-products](https://github.com/amol112225/leetcode/tree/master/1757-recyclable-and-low-fat-products) |
 <!---LeetCode Topics End-->
