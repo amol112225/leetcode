@@ -152,6 +152,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/amol112225/leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amol112225/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/amol112225/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/amol112225/leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amol112225/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/amol112225/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
 ## Two Pointers
@@ -184,6 +185,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1140-stone-game-ii](https://github.com/amol112225/leetcode/tree/master/1140-stone-game-ii) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amol112225/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/amol112225/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/amol112225/leetcode/tree/master/1510-stone-game-iv) |
 ## Stack
 |  |
 | ------- |
@@ -436,6 +438,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [1140-stone-game-ii](https://github.com/amol112225/leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/amol112225/leetcode/tree/master/1406-stone-game-iii) |
+| [1510-stone-game-iv](https://github.com/amol112225/leetcode/tree/master/1510-stone-game-iv) |
 ## Combinatorics
 |  |
 | ------- |
@@ -474,8 +477,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/amol112225/leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/amol112225/leetcode/tree/master/1510-stone-game-iv) |
 ## Zero-Sum Game
 |  |
 | ------- |
 | [1140-stone-game-ii](https://github.com/amol112225/leetcode/tree/master/1140-stone-game-ii) |
+| [1510-stone-game-iv](https://github.com/amol112225/leetcode/tree/master/1510-stone-game-iv) |
+## Nim Game
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/amol112225/leetcode/tree/master/1510-stone-game-iv) |
+## Sprague–Grundy Theorem
+|  |
+| ------- |
+| [1510-stone-game-iv](https://github.com/amol112225/leetcode/tree/master/1510-stone-game-iv) |
 <!---LeetCode Topics End-->
