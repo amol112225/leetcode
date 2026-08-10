@@ -43,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/amol112225/leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1470-shuffle-the-array](https://github.com/amol112225/leetcode/tree/master/1470-shuffle-the-array) |
 | [1631-path-with-minimum-effort](https://github.com/amol112225/leetcode/tree/master/1631-path-with-minimum-effort) |
+| [1652-defuse-the-bomb](https://github.com/amol112225/leetcode/tree/master/1652-defuse-the-bomb) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amol112225/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/amol112225/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amol112225/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
@@ -138,6 +139,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1004-max-consecutive-ones-iii](https://github.com/amol112225/leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amol112225/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amol112225/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1652-defuse-the-bomb](https://github.com/amol112225/leetcode/tree/master/1652-defuse-the-bomb) |
 ## Binary Search
 |  |
 | ------- |
