@@ -14,7 +14,7 @@ public:
     int numDistinct(string s, string t) {
         int n = s.size();
         int m = t.size();
-        vector<vector< unsigned long long >>dp(n+1,vector<unsigned long long>(m+1,0));
+        vector<vector<double>>dp(n+1,vector<double>(m+1,0));
         for(int i=0; i<=n; i++) dp[i][0] = 1;
         
         for(int i=1; i<=n; i++){
@@ -25,7 +25,7 @@ public:
                 else dp[i][j] = dp[i-1][j];
             }
         }
-        return dp[n][m];
+        return (int)dp[n][m];
 
     }
 };
