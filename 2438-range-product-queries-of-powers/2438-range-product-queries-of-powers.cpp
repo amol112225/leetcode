@@ -2,7 +2,11 @@ class Solution {
 public:
     const long long mod = 1e9 + 7;
     int chota(int n) {
-        return 1 << (31 - __builtin_clz(n));
+        int power = 1;
+        while(power*2 <= n){
+            power = power*2;
+        }
+        return power;
     }
     vector<int> productQueries(int n, vector<vector<int>>& queries) {
         vector<int>powers;
