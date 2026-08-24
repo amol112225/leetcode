@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1470-shuffle-the-array](https://github.com/amol112225/leetcode/tree/master/1470-shuffle-the-array) |
 | [1631-path-with-minimum-effort](https://github.com/amol112225/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1652-defuse-the-bomb](https://github.com/amol112225/leetcode/tree/master/1652-defuse-the-bomb) |
+| [1752-check-if-array-is-sorted-and-rotated](https://github.com/amol112225/leetcode/tree/master/1752-check-if-array-is-sorted-and-rotated) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amol112225/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/amol112225/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amol112225/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
