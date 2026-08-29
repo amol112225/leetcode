@@ -194,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amol112225/leetcode/tree/master/0002-add-two-numbers) |
 | [0062-unique-paths](https://github.com/amol112225/leetcode/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/amol112225/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amol112225/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -415,6 +416,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Linked List
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amol112225/leetcode/tree/master/0002-add-two-numbers) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/amol112225/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
 ## Binary Search Tree
 |  |
@@ -563,6 +565,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/amol112225/leetcode/tree/master/0002-add-two-numbers) |
 | [0044-wildcard-matching](https://github.com/amol112225/leetcode/tree/master/0044-wildcard-matching) |
 ## Binary Indexed Tree
 |  |
