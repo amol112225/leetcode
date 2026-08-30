@@ -58,6 +58,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amol112225/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
 | [1929-concatenation-of-array](https://github.com/amol112225/leetcode/tree/master/1929-concatenation-of-array) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amol112225/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/amol112225/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2438-range-product-queries-of-powers](https://github.com/amol112225/leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [2461-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/amol112225/leetcode/tree/master/2461-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/amol112225/leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
@@ -135,6 +136,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0714-best-time-to-buy-and-sell-stock-with-transaction-fee](https://github.com/amol112225/leetcode/tree/master/0714-best-time-to-buy-and-sell-stock-with-transaction-fee) |
 | [0860-lemonade-change](https://github.com/amol112225/leetcode/tree/master/0860-lemonade-change) |
 | [1846-maximum-element-after-decreasing-and-rearranging](https://github.com/amol112225/leetcode/tree/master/1846-maximum-element-after-decreasing-and-rearranging) |
+| [2091-removing-minimum-and-maximum-from-array](https://github.com/amol112225/leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 ## Sorting
 |  |
 | ------- |
