@@ -217,6 +217,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/amol112225/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0455-assign-cookies](https://github.com/amol112225/leetcode/tree/master/0455-assign-cookies) |
 | [0653-two-sum-iv-input-is-a-bst](https://github.com/amol112225/leetcode/tree/master/0653-two-sum-iv-input-is-a-bst) |
+| [0876-middle-of-the-linked-list](https://github.com/amol112225/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/amol112225/leetcode/tree/master/1048-longest-string-chain) |
 ## Dynamic Programming
 |  |
@@ -430,6 +431,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/amol112225/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/amol112225/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0328-odd-even-linked-list](https://github.com/amol112225/leetcode/tree/master/0328-odd-even-linked-list) |
+| [0876-middle-of-the-linked-list](https://github.com/amol112225/leetcode/tree/master/0876-middle-of-the-linked-list) |
 ## Binary Search Tree
 |  |
 | ------- |
