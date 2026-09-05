@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/amol112225/leetcode/tree/master/0001-two-sum) |
 | [0031-next-permutation](https://github.com/amol112225/leetcode/tree/master/0031-next-permutation) |
 | [0045-jump-game-ii](https://github.com/amol112225/leetcode/tree/master/0045-jump-game-ii) |
+| [0048-rotate-image](https://github.com/amol112225/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/amol112225/leetcode/tree/master/0053-maximum-subarray) |
 | [0057-insert-interval](https://github.com/amol112225/leetcode/tree/master/0057-insert-interval) |
 | [0063-unique-paths-ii](https://github.com/amol112225/leetcode/tree/master/0063-unique-paths-ii) |
@@ -215,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amol112225/leetcode/tree/master/0002-add-two-numbers) |
+| [0048-rotate-image](https://github.com/amol112225/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/amol112225/leetcode/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/amol112225/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amol112225/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -509,6 +511,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/amol112225/leetcode/tree/master/0048-rotate-image) |
 | [0063-unique-paths-ii](https://github.com/amol112225/leetcode/tree/master/0063-unique-paths-ii) |
 | [0064-minimum-path-sum](https://github.com/amol112225/leetcode/tree/master/0064-minimum-path-sum) |
 | [0130-surrounded-regions](https://github.com/amol112225/leetcode/tree/master/0130-surrounded-regions) |
