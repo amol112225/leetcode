@@ -45,9 +45,8 @@ public:
             slow = slow->next;
             fast = fast->next->next;
         }
-        ListNode* middle = NULL;
-        if(fast==NULL) middle = slow;
-        else middle = slow;
+        ListNode* middle =slow;
+        
         reverse(middle);
 
         
