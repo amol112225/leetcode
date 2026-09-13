@@ -8,33 +8,60 @@
  *     ListNode(int x, ListNode *next) : val(x), next(next) {}
  * };
  */
+
+using ln = ListNode;
 class Solution {
 public:
-    void reorderList(ListNode* head) {
-        vector<int>arr;
+    ln* reverse(ListNode* head){
+        if(head==NULL || head->next==NULL) return head;
+        ListNode* front = NULL;
+        ListNode* prev = NULL;
         ListNode* temp = head;
         while(temp!=NULL){
-            arr.push_back(temp->val);
-            temp = temp->next;
-        }
-        int n = arr.size();
-        vector<int>arr1;
-        int i=0;
-        int j=n-1;
-        while(i<=j){
-            arr1.push_back(arr[i]);
-            i++;
-            arr1.push_back(arr[j]);
-            j--;
-        }
-        temp = head;
-        int ind = 0;
-        while(temp!=NULL){
-            temp->val = arr1[ind];
-            ind++;
-            temp = temp->next;
+            front = temp->next;
+            temp->next = prev;
+            prev = temp;
+            temp = front;
         }
         
+        return prev;
+    }
+
+    void show(ListNode* head) {
+        ln *temp = head;
+
+        while(temp) {
+            cout << temp->val << ' ';
+            temp = temp -> next;
+        }
+    }
+    void reorderList(ListNode* head) {
+        if(head==NULL || head->next==NULL) return ;
+        ListNode* slow = head;
+        ListNode* fast = head;
+        ListNode* last = head;
+        while(last->next!=NULL) last = last->next;
+        while(fast!=NULL && fast->next!=NULL){
+            slow = slow->next;
+            fast = fast->next->next;
+        }
+        ListNode* middle = NULL;
+        if(fast==NULL) middle = slow;
+        else middle = slow;
+        reverse(middle);
+
+        
+        ListNode* t1 = head;
+        ListNode* t2 = last;
+
+        while((t1->next!=last && t2->next!=NULL)){
+            ListNode* temp1 = t1->next;
+            ListNode* temp2 = t2->next;
+            t1->next = t2;
+            t2->next = ((temp1 == last) ? NULL : temp1);
+            t1 = temp1;
+            t2 = temp2;
+        }
 
     }
 };
