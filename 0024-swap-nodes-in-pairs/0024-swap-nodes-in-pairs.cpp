@@ -15,15 +15,14 @@ public:
         ListNode* t1 = head;
         ListNode* t2 = head->next;
         ListNode* newHead = t2;
-        ListNode* prev = t1;
-        while(t2!=NULL && t1!=NULL && t1->next!=NULL){
+        ListNode* prev = NULL;
+        while(t1!=NULL && t1->next!=NULL){
+            t2 = t1->next;
             t1->next = t2->next;
             t2->next = t1;
-            t1 = t1->next;
-            if(t1!=NULL && t1->next!=NULL) t2 = t1->next;
-            else break;
             if(prev!=NULL) prev->next = t2;
             prev = t1;
+            t1 = t1->next;
         }
         return newHead;
     }
