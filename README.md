@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0062-unique-paths](https://github.com/amol112225/leetcode/tree/master/0062-unique-paths) |
 | [0368-largest-divisible-subset](https://github.com/amol112225/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0628-maximum-product-of-three-numbers](https://github.com/amol112225/leetcode/tree/master/0628-maximum-product-of-three-numbers) |
+| [0836-rectangle-overlap](https://github.com/amol112225/leetcode/tree/master/0836-rectangle-overlap) |
 | [1140-stone-game-ii](https://github.com/amol112225/leetcode/tree/master/1140-stone-game-ii) |
 | [1248-count-number-of-nice-subarrays](https://github.com/amol112225/leetcode/tree/master/1248-count-number-of-nice-subarrays) |
 | [1406-stone-game-iii](https://github.com/amol112225/leetcode/tree/master/1406-stone-game-iii) |
@@ -703,4 +704,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/amol112225/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/amol112225/leetcode/tree/master/0229-majority-element-ii) |
+## Geometry
+|  |
+| ------- |
+| [0836-rectangle-overlap](https://github.com/amol112225/leetcode/tree/master/0836-rectangle-overlap) |
 <!---LeetCode Topics End-->
