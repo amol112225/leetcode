@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0200-number-of-islands](https://github.com/amol112225/leetcode/tree/master/0200-number-of-islands) |
 | [0213-house-robber-ii](https://github.com/amol112225/leetcode/tree/master/0213-house-robber-ii) |
 | [0229-majority-element-ii](https://github.com/amol112225/leetcode/tree/master/0229-majority-element-ii) |
+| [0240-search-a-2d-matrix-ii](https://github.com/amol112225/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amol112225/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/amol112225/leetcode/tree/master/0322-coin-change) |
 | [0368-largest-divisible-subset](https://github.com/amol112225/leetcode/tree/master/0368-largest-divisible-subset) |
@@ -142,6 +143,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0106-construct-binary-tree-from-inorder-and-postorder-traversal](https://github.com/amol112225/leetcode/tree/master/0106-construct-binary-tree-from-inorder-and-postorder-traversal) |
 | [0148-sort-list](https://github.com/amol112225/leetcode/tree/master/0148-sort-list) |
 | [0169-majority-element](https://github.com/amol112225/leetcode/tree/master/0169-majority-element) |
+| [0240-search-a-2d-matrix-ii](https://github.com/amol112225/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/amol112225/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
 ## Segment Tree
 |  |
@@ -258,6 +260,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0153-find-minimum-in-rotated-sorted-array](https://github.com/amol112225/leetcode/tree/master/0153-find-minimum-in-rotated-sorted-array) |
 | [0162-find-peak-element](https://github.com/amol112225/leetcode/tree/master/0162-find-peak-element) |
 | [0222-count-complete-tree-nodes](https://github.com/amol112225/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0240-search-a-2d-matrix-ii](https://github.com/amol112225/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0410-split-array-largest-sum](https://github.com/amol112225/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0540-single-element-in-a-sorted-array](https://github.com/amol112225/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
 | [0704-binary-search](https://github.com/amol112225/leetcode/tree/master/0704-binary-search) |
@@ -598,6 +601,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0074-search-a-2d-matrix](https://github.com/amol112225/leetcode/tree/master/0074-search-a-2d-matrix) |
 | [0130-surrounded-regions](https://github.com/amol112225/leetcode/tree/master/0130-surrounded-regions) |
 | [0200-number-of-islands](https://github.com/amol112225/leetcode/tree/master/0200-number-of-islands) |
+| [0240-search-a-2d-matrix-ii](https://github.com/amol112225/leetcode/tree/master/0240-search-a-2d-matrix-ii) |
 | [0542-01-matrix](https://github.com/amol112225/leetcode/tree/master/0542-01-matrix) |
 | [0733-flood-fill](https://github.com/amol112225/leetcode/tree/master/0733-flood-fill) |
 | [0994-rotting-oranges](https://github.com/amol112225/leetcode/tree/master/0994-rotting-oranges) |
