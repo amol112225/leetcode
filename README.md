@@ -232,6 +232,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amol112225/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1347-minimum-number-of-steps-to-make-two-strings-anagram](https://github.com/amol112225/leetcode/tree/master/1347-minimum-number-of-steps-to-make-two-strings-anagram) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amol112225/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amol112225/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amol112225/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/amol112225/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/amol112225/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
@@ -376,6 +377,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/amol112225/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1008-construct-binary-search-tree-from-preorder-traversal](https://github.com/amol112225/leetcode/tree/master/1008-construct-binary-search-tree-from-preorder-traversal) |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amol112225/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amol112225/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
 | ------- |
@@ -765,4 +767,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/amol112225/leetcode/tree/master/1190-reverse-substrings-between-each-pair-of-parentheses) |
+| [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amol112225/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 <!---LeetCode Topics End-->
