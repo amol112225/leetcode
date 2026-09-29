@@ -65,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0875-koko-eating-bananas](https://github.com/amol112225/leetcode/tree/master/0875-koko-eating-bananas) |
 | [0904-fruit-into-baskets](https://github.com/amol112225/leetcode/tree/master/0904-fruit-into-baskets) |
 | [0930-binary-subarrays-with-sum](https://github.com/amol112225/leetcode/tree/master/0930-binary-subarrays-with-sum) |
+| [0944-delete-columns-to-make-sorted](https://github.com/amol112225/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amol112225/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [0992-subarrays-with-k-different-integers](https://github.com/amol112225/leetcode/tree/master/0992-subarrays-with-k-different-integers) |
 | [0994-rotting-oranges](https://github.com/amol112225/leetcode/tree/master/0994-rotting-oranges) |
@@ -230,6 +231,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0516-longest-palindromic-subsequence](https://github.com/amol112225/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/amol112225/leetcode/tree/master/0583-delete-operation-for-two-strings) |
 | [0678-valid-parenthesis-string](https://github.com/amol112225/leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0944-delete-columns-to-make-sorted](https://github.com/amol112225/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 | [0955-delete-columns-to-make-sorted-ii](https://github.com/amol112225/leetcode/tree/master/0955-delete-columns-to-make-sorted-ii) |
 | [1048-longest-string-chain](https://github.com/amol112225/leetcode/tree/master/1048-longest-string-chain) |
 | [1092-shortest-common-supersequence](https://github.com/amol112225/leetcode/tree/master/1092-shortest-common-supersequence) |
@@ -747,6 +749,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0673-number-of-longest-increasing-subsequence](https://github.com/amol112225/leetcode/tree/master/0673-number-of-longest-increasing-subsequence) |
+| [0944-delete-columns-to-make-sorted](https://github.com/amol112225/leetcode/tree/master/0944-delete-columns-to-make-sorted) |
 ## Floyd's Cycle Finding Algorithm
 |  |
 | ------- |
