@@ -109,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/amol112225/leetcode/tree/master/0001-two-sum) |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amol112225/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0013-roman-to-integer](https://github.com/amol112225/leetcode/tree/master/0013-roman-to-integer) |
 | [0041-first-missing-positive](https://github.com/amol112225/leetcode/tree/master/0041-first-missing-positive) |
 | [0076-minimum-window-substring](https://github.com/amol112225/leetcode/tree/master/0076-minimum-window-substring) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/amol112225/leetcode/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
@@ -225,6 +226,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/amol112225/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/amol112225/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0013-roman-to-integer](https://github.com/amol112225/leetcode/tree/master/0013-roman-to-integer) |
 | [0020-valid-parentheses](https://github.com/amol112225/leetcode/tree/master/0020-valid-parentheses) |
 | [0044-wildcard-matching](https://github.com/amol112225/leetcode/tree/master/0044-wildcard-matching) |
 | [0072-edit-distance](https://github.com/amol112225/leetcode/tree/master/0072-edit-distance) |
@@ -299,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/amol112225/leetcode/tree/master/0002-add-two-numbers) |
+| [0013-roman-to-integer](https://github.com/amol112225/leetcode/tree/master/0013-roman-to-integer) |
 | [0048-rotate-image](https://github.com/amol112225/leetcode/tree/master/0048-rotate-image) |
 | [0062-unique-paths](https://github.com/amol112225/leetcode/tree/master/0062-unique-paths) |
 | [0069-sqrtx](https://github.com/amol112225/leetcode/tree/master/0069-sqrtx) |
