@@ -4,3 +4,4 @@ FROM Signups t1
 LEFT JOIN Confirmations as t2
 ON t1.user_id = t2.user_id
 GROUP BY t1.user_id
+ORDER BY t1.user_id;
