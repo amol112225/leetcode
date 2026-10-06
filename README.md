@@ -387,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0213-house-robber-ii](https://github.com/amol112225/leetcode/tree/master/0213-house-robber-ii) |
 | [0309-best-time-to-buy-and-sell-stock-with-cooldown](https://github.com/amol112225/leetcode/tree/master/0309-best-time-to-buy-and-sell-stock-with-cooldown) |
 | [0322-coin-change](https://github.com/amol112225/leetcode/tree/master/0322-coin-change) |
+| [0338-counting-bits](https://github.com/amol112225/leetcode/tree/master/0338-counting-bits) |
 | [0368-largest-divisible-subset](https://github.com/amol112225/leetcode/tree/master/0368-largest-divisible-subset) |
 | [0410-split-array-largest-sum](https://github.com/amol112225/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/amol112225/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -580,6 +581,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/amol112225/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0338-counting-bits](https://github.com/amol112225/leetcode/tree/master/0338-counting-bits) |
 | [2438-range-product-queries-of-powers](https://github.com/amol112225/leetcode/tree/master/2438-range-product-queries-of-powers) |
 ## Design
 |  |
