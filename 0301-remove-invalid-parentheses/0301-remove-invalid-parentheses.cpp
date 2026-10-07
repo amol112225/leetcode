@@ -29,7 +29,6 @@ public:
                 if(valid(temp)){
                     ans.push_back(temp);
                     found = true;
-                    continue;
                 }
                 if(found) continue;
 
