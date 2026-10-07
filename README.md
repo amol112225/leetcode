@@ -244,6 +244,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0125-valid-palindrome](https://github.com/amol112225/leetcode/tree/master/0125-valid-palindrome) |
 | [0224-basic-calculator](https://github.com/amol112225/leetcode/tree/master/0224-basic-calculator) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amol112225/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/amol112225/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0424-longest-repeating-character-replacement](https://github.com/amol112225/leetcode/tree/master/0424-longest-repeating-character-replacement) |
 | [0516-longest-palindromic-subsequence](https://github.com/amol112225/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0583-delete-operation-for-two-strings](https://github.com/amol112225/leetcode/tree/master/0583-delete-operation-for-two-strings) |
@@ -559,6 +560,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0207-course-schedule](https://github.com/amol112225/leetcode/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/amol112225/leetcode/tree/master/0210-course-schedule-ii) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/amol112225/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
+| [0301-remove-invalid-parentheses](https://github.com/amol112225/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0322-coin-change](https://github.com/amol112225/leetcode/tree/master/0322-coin-change) |
 | [0542-01-matrix](https://github.com/amol112225/leetcode/tree/master/0542-01-matrix) |
 | [0547-number-of-provinces](https://github.com/amol112225/leetcode/tree/master/0547-number-of-provinces) |
@@ -701,6 +703,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0022-generate-parentheses](https://github.com/amol112225/leetcode/tree/master/0022-generate-parentheses) |
 | [0113-path-sum-ii](https://github.com/amol112225/leetcode/tree/master/0113-path-sum-ii) |
+| [0301-remove-invalid-parentheses](https://github.com/amol112225/leetcode/tree/master/0301-remove-invalid-parentheses) |
 | [0494-target-sum](https://github.com/amol112225/leetcode/tree/master/0494-target-sum) |
 ## Heap (Priority Queue)
 |  |
