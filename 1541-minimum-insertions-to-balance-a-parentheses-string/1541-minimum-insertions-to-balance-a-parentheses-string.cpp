@@ -8,15 +8,10 @@ public:
                 open++;
             }
             else {
-                if (i + 1 < n && s[i + 1] == ')')
-                    i++;
-                else
-                    cnt++;
-
-                if (open > 0)
-                    open--;
-                else
-                    cnt++;
+                if (i + 1 < n && s[i + 1] == ')') i++;
+                else cnt++;
+                if (open > 0) open--;
+                else cnt++;
             }
         }
 
