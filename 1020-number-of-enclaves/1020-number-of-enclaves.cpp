@@ -27,7 +27,7 @@ public:
                 int nrow = row + delRow[i];
                 int ncol = col + delCol[i];
                 if(nrow>=0 && nrow<n && ncol>=0 && ncol<m 
-                    && vis[nrow][ncol]==0 && grid[nrow][ncol]){
+                    && vis[nrow][ncol]==0 && grid[nrow][ncol]==1){
                         vis[nrow][ncol]=1;
                         q.push({nrow,ncol});
                     }
