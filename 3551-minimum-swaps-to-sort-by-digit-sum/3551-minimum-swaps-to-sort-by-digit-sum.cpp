@@ -18,26 +18,16 @@ public:
         }
 
         sort(v.begin(), v.end());
-
-        vector<int> vis(n, 0);
         int cnt = 0;
-
-        for (int i = 0; i < n; i++) {
-            if (vis[i] || v[i].second == i)
-                continue;
-
-            int cycle = 0;
-            int j = i;
-
-            while (!vis[j]) {
-                vis[j] = 1;
-                j = v[j].second;
-                cycle++;
+        int idx =0;
+        while(idx < n){
+         if(v[idx].second == idx) idx++;
+         else{
+            int a = v[idx].second;
+            swap(v[idx], v[a]);
+            cnt++;
             }
-
-            cnt += cycle - 1;
-        }
-
-        return cnt;
+         }
+         return cnt;
     }
 };
