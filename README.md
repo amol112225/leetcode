@@ -116,6 +116,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/amol112225/leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amol112225/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3551-minimum-swaps-to-sort-by-digit-sum](https://github.com/amol112225/leetcode/tree/master/3551-minimum-swaps-to-sort-by-digit-sum) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/amol112225/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 | [3653-xor-after-range-multiplication-queries-i](https://github.com/amol112225/leetcode/tree/master/3653-xor-after-range-multiplication-queries-i) |
 | [3718-smallest-missing-multiple-of-k](https://github.com/amol112225/leetcode/tree/master/3718-smallest-missing-multiple-of-k) |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/amol112225/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
@@ -642,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0338-counting-bits](https://github.com/amol112225/leetcode/tree/master/0338-counting-bits) |
 | [2438-range-product-queries-of-powers](https://github.com/amol112225/leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/amol112225/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
+| [3644-maximum-k-to-sort-a-permutation](https://github.com/amol112225/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
 ## Design
 |  |
 | ------- |
