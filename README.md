@@ -308,6 +308,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amol112225/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/amol112225/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
 | [2287-rearrange-characters-to-make-target-string](https://github.com/amol112225/leetcode/tree/master/2287-rearrange-characters-to-make-target-string) |
+| [2409-count-days-spent-together](https://github.com/amol112225/leetcode/tree/master/2409-count-days-spent-together) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/amol112225/leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2937-make-three-strings-equal](https://github.com/amol112225/leetcode/tree/master/2937-make-three-strings-equal) |
 | [3498-reverse-degree-of-a-string](https://github.com/amol112225/leetcode/tree/master/3498-reverse-degree-of-a-string) |
@@ -375,6 +376,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1510-stone-game-iv](https://github.com/amol112225/leetcode/tree/master/1510-stone-game-iv) |
 | [1979-find-greatest-common-divisor-of-array](https://github.com/amol112225/leetcode/tree/master/1979-find-greatest-common-divisor-of-array) |
 | [2344-minimum-deletions-to-make-array-divisible](https://github.com/amol112225/leetcode/tree/master/2344-minimum-deletions-to-make-array-divisible) |
+| [2409-count-days-spent-together](https://github.com/amol112225/leetcode/tree/master/2409-count-days-spent-together) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/amol112225/leetcode/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/amol112225/leetcode/tree/master/3622-check-divisibility-by-digit-sum-and-product) |
 | [3658-gcd-of-odd-and-even-sums](https://github.com/amol112225/leetcode/tree/master/3658-gcd-of-odd-and-even-sums) |
