@@ -124,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3727-maximum-alternating-sum-of-squares](https://github.com/amol112225/leetcode/tree/master/3727-maximum-alternating-sum-of-squares) |
 | [3731-find-missing-elements](https://github.com/amol112225/leetcode/tree/master/3731-find-missing-elements) |
 | [3737-count-subarrays-with-majority-element-i](https://github.com/amol112225/leetcode/tree/master/3737-count-subarrays-with-majority-element-i) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/amol112225/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 | [3886-sum-of-sortable-integers](https://github.com/amol112225/leetcode/tree/master/3886-sum-of-sortable-integers) |
 | [3904-smallest-stable-index-ii](https://github.com/amol112225/leetcode/tree/master/3904-smallest-stable-index-ii) |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/amol112225/leetcode/tree/master/3942-minimum-operations-to-sort-a-permutation) |
@@ -462,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/amol112225/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1406-stone-game-iii](https://github.com/amol112225/leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/amol112225/leetcode/tree/master/1510-stone-game-iv) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/amol112225/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Stack
 |  |
 | ------- |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2438-range-product-queries-of-powers](https://github.com/amol112225/leetcode/tree/master/2438-range-product-queries-of-powers) |
 | [2897-apply-operations-on-array-to-maximize-sum-of-squares](https://github.com/amol112225/leetcode/tree/master/2897-apply-operations-on-array-to-maximize-sum-of-squares) |
 | [3644-maximum-k-to-sort-a-permutation](https://github.com/amol112225/leetcode/tree/master/3644-maximum-k-to-sort-a-permutation) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/amol112225/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Design
 |  |
 | ------- |
@@ -755,6 +758,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1631-path-with-minimum-effort](https://github.com/amol112225/leetcode/tree/master/1631-path-with-minimum-effort) |
 | [1901-find-a-peak-element-ii](https://github.com/amol112225/leetcode/tree/master/1901-find-a-peak-element-ii) |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/amol112225/leetcode/tree/master/3619-count-islands-with-total-value-divisible-by-k) |
+| [3882-minimum-xor-path-in-a-grid](https://github.com/amol112225/leetcode/tree/master/3882-minimum-xor-path-in-a-grid) |
 ## Number Theory
 |  |
 | ------- |
