@@ -311,6 +311,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/amol112225/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/amol112225/leetcode/tree/master/1541-minimum-insertions-to-balance-a-parentheses-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/amol112225/leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1768-merge-strings-alternately](https://github.com/amol112225/leetcode/tree/master/1768-merge-strings-alternately) |
 | [1781-sum-of-beauty-of-all-substrings](https://github.com/amol112225/leetcode/tree/master/1781-sum-of-beauty-of-all-substrings) |
 | [1807-evaluate-the-bracket-pairs-of-a-string](https://github.com/amol112225/leetcode/tree/master/1807-evaluate-the-bracket-pairs-of-a-string) |
 | [2186-minimum-number-of-steps-to-make-two-strings-anagram-ii](https://github.com/amol112225/leetcode/tree/master/2186-minimum-number-of-steps-to-make-two-strings-anagram-ii) |
@@ -419,6 +420,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0876-middle-of-the-linked-list](https://github.com/amol112225/leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1048-longest-string-chain](https://github.com/amol112225/leetcode/tree/master/1048-longest-string-chain) |
 | [1721-swapping-nodes-in-a-linked-list](https://github.com/amol112225/leetcode/tree/master/1721-swapping-nodes-in-a-linked-list) |
+| [1768-merge-strings-alternately](https://github.com/amol112225/leetcode/tree/master/1768-merge-strings-alternately) |
 | [2095-delete-the-middle-node-of-a-linked-list](https://github.com/amol112225/leetcode/tree/master/2095-delete-the-middle-node-of-a-linked-list) |
 | [2149-rearrange-array-elements-by-sign](https://github.com/amol112225/leetcode/tree/master/2149-rearrange-array-elements-by-sign) |
 ## Dynamic Programming
